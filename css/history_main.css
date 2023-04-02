@@ -177,13 +177,9 @@
     font-size: 120%;
     
 }
-.history .year_box{
-
-}
 .history .sticki {
     position: sticky;
     top: 150px;
-    
 }
 .history .history_l .history_fix.fixed {
 	position: fixed;
