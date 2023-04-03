@@ -2,6 +2,10 @@
     display: none;
 }
 
+.product_list_slide .slick-arrow {
+    display: none;
+}
+
 @media screen and (max-width:1700px) {
     .header .header_container {
         padding: 40px 20px;
@@ -92,6 +96,10 @@
     .product_list_slide .img_box {
         width: 13vw;
         height: 13vw;
+    }
+
+    .product_list_slide .slick-arrow {
+        display: block;
     }
 }
 

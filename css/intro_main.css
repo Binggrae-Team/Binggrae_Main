@@ -267,6 +267,7 @@
     width: 8px;
     height: 15px;
     padding: 15px;
+    display: block;
 }
 
 .product_list_slide .slick-next {
